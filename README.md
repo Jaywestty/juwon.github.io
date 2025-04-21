@@ -1,4 +1,3 @@
-# FADAIRO OLUWAJUWON
 # DATA SCIENTIST
 - Phone: 09019297936
 - Email: juwonfadairo10@gmailcom
@@ -27,6 +26,9 @@ Forest) using Scikit-Learn.
 
 ## Featured Projects
 ### [PREDICTION OF GLOBAL RESTAURANT RATINGS WITH MACHINE LEARNING](https://github.com/Jaywestty/Axia-Capstone-Project.git)
+<p align="center">
+  <img src="images/restaurants.png" width="600"/>
+</p>
   I worked with a dataset comprising 21 features and 9,551 observations in this project. The objective was to explore, preprocess, and model the data to uncover insights and build predictive regression models.
 #### Key Contributions:
   - **Data Cleaning & Preprocessing**: Thoroughly handled missing values using pandas to ensure data quality and consistency.
@@ -40,7 +42,12 @@ Forest) using Scikit-Learn.
   - **Model Deployment Preparation**: Saved the optimal model for future deployment or further analysis.
   
 ### [DIABETES PREDICTION APP WITH MACHINE LEARNING](https://github.com/Jaywestty/DIABETES-MACHINE-LEARNING-PREDICTION-APP.git)
-- [ML API with Streamlit](https://jaywestty-diabetes-machine-learning-prediction-app-app-pnu8yg.streamlit.app/)
+
+[ML API with Streamlit](https://jaywestty-diabetes-machine-learning-prediction-app-app-pnu8yg.streamlit.app/)
+<p align="center">
+  <img src="images/Dbimage.png" width="600"/>
+</p>
+  
 This is a user-friendly web application built with Streamlit that predicts whether a patient is likely to have diabetes based on their medical information. Users can input basic health metrics, and the app provides a real-time prediction using a trained machine learning model.
 #### Key Contributions:
 - **Data Cleaning & Preprocessing**: Cleaned and handled missing values using pandas to ensure high-quality data inputs for modelling.
