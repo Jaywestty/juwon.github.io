@@ -30,6 +30,7 @@ Forest) using Scikit-Learn.
   <img src="images/restaurants.png" width="600"/>
 </p>
   I worked with a dataset comprising 21 features and 9,551 observations in this project. The objective was to explore, preprocess, and model the data to uncover insights and build predictive regression models.
+
 #### Key Contributions:
   - **Data Cleaning & Preprocessing**: Thoroughly handled missing values using pandas to ensure data quality and consistency.
   - **Exploratory Data Analysis (EDA**): Utilised matplotlib, seaborn, and plotly for rich data visualisations, uncovering patterns and trends to inform the modelling process.
@@ -49,6 +50,7 @@ Forest) using Scikit-Learn.
 </p>
   
 This is a user-friendly web application built with Streamlit that predicts whether a patient is likely to have diabetes based on their medical information. Users can input basic health metrics, and the app provides a real-time prediction using a trained machine learning model.
+
 #### Key Contributions:
 - **Data Cleaning & Preprocessing**: Cleaned and handled missing values using pandas to ensure high-quality data inputs for modelling.
 - **Exploratory Data Analysis (EDA**): Employed matplotlib, seaborn, and plotly to visualise distributions, correlations, and trends within the dataset, enabling data-driven insights.
@@ -62,7 +64,8 @@ This is a user-friendly web application built with Streamlit that predicts wheth
 and [Others](https://github.com/Jaywestty)
 
 ## Education
-- Ladoke Akintola University of Technology (LAUTECH) | B.Tech in Science Laboratory Technology (Physics & Electronics)(2nd Class Upper) | 2018 - 2023
+
+Ladoke Akintola University of Technology (LAUTECH) | B.Tech in Science Laboratory Technology (Physics & Electronics)(2nd Class Upper) | 2018 - 2023
 
 ## 📫 Connect with me
 - [LinkedIn](www.linkedin.com/in/oluwajuwon-f-27b132248)
