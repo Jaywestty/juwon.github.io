@@ -5,18 +5,18 @@
 I'm a Data Scientist and Machine Learning Engineer passionate about solving real-world problems using data.
 
 ## Skills
-- Programming: Python (Pandas, NumPy, Scikit-Learn)
+- Programming: SQL, Python (Pandas, NumPy, Scikit-Learn)
 - Machine Learning: Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering.
-- Data Analysis & Visualisation: Matplotlib, Seaborn, Plotly
+- Data Analysis & Visualisation: Matplotlib, Seaborn, Plotly, PowerBi
 - Data Preprocessing: Cleaning, Handling Missing Values, Feature Scaling
-- Model Deployment & Integration: Streamlit
+- Model Deployment & Integration: Streamlit, Flask
 - Backend Development: Django
 - Web Scraping: BeautifulSoup
 - Soft Skills: Communication, Problem-Solving, Team Collaboration
 
 ## Experience
-Data Science Bootcamp
-Axia Africa | November 2024 - March 2024
+Data Science Intern
+Cognifyz Technologies | November 2024 - December 2024
 - Conducted data cleaning and preprocessing using Pandas, ensuring high data quality for ML 
 models.
 - Designed and implemented Machine Learning models (Linear Regression, Decision Tree, Random 
