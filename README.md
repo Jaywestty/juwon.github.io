@@ -16,6 +16,7 @@ I'm a Data Scientist and Machine Learning Engineer passionate about solving real
 
 ## Experience
 Data Science Intern
+
 Cognifyz Technologies | November 2024 - December 2024
 - Conducted data cleaning and preprocessing using Pandas, ensuring high data quality for ML 
 models.
