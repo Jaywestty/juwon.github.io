@@ -67,10 +67,9 @@ This is a user-friendly web application built with Streamlit that predicts wheth
 - Conducted exploratory data analysis (EDA) to uncover patterns and support feature selection for optimal model performance.
 - Engineered and transformed relevant features to improve model accuracy and interpretability.
 - Trained and evaluated Logistic Regression and a Random Forest Classifier (tuned via GridSearchCV).
-- Achieved:
-      - Random Forest: 80% test accuracy (best performing)
-  
-      - Logistic Regression: 71% test accuracy
+- Evaluated models and achieved:
+      - Random Forest Classifier: 80% test accuracy
+      - Logistic Regression Classifier: 71% test accuracy
 - Visualized model performance with heatmaps and classification metrics to guide selection of the most accurate and generalizable model.
 - Serialized the best model using Pickle and deployed it on Streamlit, enabling interactive predictions from users through a web interface.
 
