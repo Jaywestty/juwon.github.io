@@ -33,8 +33,7 @@ Cognifyz Technologies | November 2024 - December 2024
 <p align="center">
   <img src="images/stperfom.png" width="600"/>
 </p>
-  A machine learning project that predicts student performance labels (Fair, Good, Excellent) using demographic and behavioral factors.
-
+ The Student Performance App is a multi-class classification project that predicts a student's performance based on their habits and background details. The possible output categories are Good, Fair, or Excellent.
 #### Key Contributions:
   - Conducted exploratory data analysis (EDA) and preprocessing, including outlier handling, feature scaling, and encoding categorical variables.
   - Engineered features and removed multicollinearity to improve model robustness.
