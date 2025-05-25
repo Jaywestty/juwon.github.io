@@ -69,6 +69,7 @@ This is a user-friendly web application built with Streamlit that predicts wheth
 - Trained and evaluated Logistic Regression and a Random Forest Classifier (tuned via GridSearchCV).
 - Achieved:
       - Random Forest: 80% test accuracy (best performing)
+  
       - Logistic Regression: 71% test accuracy
 - Visualized model performance with heatmaps and classification metrics to guide selection of the most accurate and generalizable model.
 - Serialized the best model using Pickle and deployed it on Streamlit, enabling interactive predictions from users through a web interface.
