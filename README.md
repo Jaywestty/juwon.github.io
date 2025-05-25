@@ -18,15 +18,16 @@ I'm a Data Scientist and Machine Learning Engineer passionate about solving real
 Data Science Intern
 
 Cognifyz Technologies | November 2024 - December 2024
-- Conducted data cleaning and preprocessing using Pandas, ensuring high data quality for ML 
-models.
-- Designed and implemented Machine Learning models (Linear Regression, Decision Tree, Random 
-Forest) using Scikit-Learn.
-- Performed exploratory data analysis (EDA) and created visualisations with Matplotlib & Seaborn.
-- Applied feature engineering techniques to improve model performance and accuracy
+### [PREDICTION OF GLOBAL RESTAURANT RATINGS WITH MACHINE LEARNING](https://github.com/Jaywestty/Restuarant-rating-Capstone-Project.git)
+- Cleaned real-world restaurant data, including handling missing values and reasoning through zero ratings.
+- Visualised key insights using Matplotlib, Seaborn, and geospatial mapping with Plotly.
+- Applied log transformation to address skewness and encoded categorical variables.
+- Trained and evaluated regression models, including Linear Regression, Decision Tree, and Random Forest, using Scikit-learn.
+- Selected and saved the best-performing model (Random Forest, R² = 95%) for future use.
+**Impacts**: Delivered a predictive analytics model for restaurant ratings, showcasing skills in real-world data wrangling, EDA, and supervised learning.
 
 ## Featured Projects
-### [PREDICTION OF GLOBAL RESTAURANT RATINGS WITH MACHINE LEARNING](https://github.com/Jaywestty/Axia-Capstone-Project.git)
+
 <p align="center">
   <img src="images/restaurants.png" width="600"/>
 </p>
