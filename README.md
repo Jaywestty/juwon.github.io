@@ -31,7 +31,7 @@ Cognifyz Technologies | November 2024 - December 2024
 
 
 <p align="center">
-  <img src="images/stperform.png" width="600"/>
+  <img src="images/stperfom.png" width="600"/>
 </p>
   I worked with a dataset comprising 21 features and 9,551 observations in this project. The objective was to explore, preprocess, and model the data to uncover insights and build predictive regression models.
 
