@@ -24,6 +24,7 @@ Cognifyz Technologies | November 2024 - December 2024
 - Applied log transformation to address skewness and encoded categorical variables.
 - Trained and evaluated regression models, including Linear Regression, Decision Tree, and Random Forest, using Scikit-learn.
 - Selected and saved the best-performing model (Random Forest, R² = 95%) for future use.
+
 **Impacts**: Delivered a predictive analytics model for restaurant ratings, showcasing skills in real-world data wrangling, EDA, and supervised learning.
 
 ## Featured Projects
