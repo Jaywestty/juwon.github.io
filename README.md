@@ -28,23 +28,25 @@ Cognifyz Technologies | November 2024 - December 2024
 **Impacts**: Delivered a predictive analytics model for restaurant ratings, showcasing skills in real-world data wrangling, EDA, and supervised learning.
 
 ## Featured Projects
-### [STUDENT PERFORMANCE PREDICTION WITH MACHINE LEARNING](https://github.com/Jaywestty/Student-Performance.git)
+### [STUDENT PERFORMANCE PREDICTION APP WITH MACHINE LEARNING](https://github.com/Jaywestty/Student-Performance.git)
 
 <p align="center">
   <img src="images/stperfom.png" width="600"/>
 </p>
-  I worked with a dataset comprising 21 features and 9,551 observations in this project. The objective was to explore, preprocess, and model the data to uncover insights and build predictive regression models.
+  A machine learning project that predicts student performance labels (Fair, Good, Excellent) using demographic and behavioral factors.
 
 #### Key Contributions:
-  - **Data Cleaning & Preprocessing**: Thoroughly handled missing values using pandas to ensure data quality and consistency.
-  - **Exploratory Data Analysis (EDA**): Utilised matplotlib, seaborn, and plotly for rich data visualisations, uncovering patterns and trends to inform the modelling process.
-  - **Feature Engineering**: Applied feature engineering techniques to enhance the predictive power of the dataset.
-  - **Model Development**: Built and evaluated multiple regression models, including:
-      - Linear Regression
-      - Decision Tree Regression
-      - Random Forest Regression
-  - **Model Evaluation & Selection**: Analysed the performance of each model using appropriate metrics, shared key observations on their impact, and selected the best-performing model.
-  - **Model Deployment Preparation**: Saved the optimal model for future deployment or further analysis.
+  - Conducted exploratory data analysis (EDA) and preprocessing, including outlier handling, feature scaling, and encoding categorical variables.
+  - Engineered features and removed multicollinearity to improve model robustness.
+  - Implemented and compared multiple classification algorithms: Logistic Regression, Random Forest, SVM, and CatBoost.
+  - Built a robust pipeline integrating preprocessing and model training using Pipeline from Scikit-learn.
+  - Evaluated models using accuracy, confusion matrix, and classification report, achieving:
+      - CatBoostClassifier: 93% test accuracy
+      - Random Forest Classifier: 91% test accuracy
+  - Visualized model performance with heatmaps and classification metrics to guide selection of the most accurate and generalizable model.
+  - Saved the optimal model for deployment using pickle and deployed the model through an interactive Streamlit interface, enabling real-time predictions directly in the browser.
+#### Impact:
+  - Delivered a robust educational performance analysis pipeline, demonstrating expertise in data cleaning, model benchmarking, and multi-class classification techniques.
   
 ### [DIABETES PREDICTION APP WITH MACHINE LEARNING](https://github.com/Jaywestty/DIABETES-MACHINE-LEARNING-PREDICTION-APP.git)
 
