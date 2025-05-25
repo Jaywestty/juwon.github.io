@@ -19,6 +19,9 @@ Data Science Intern
 
 Cognifyz Technologies | November 2024 - December 2024
 ### [PREDICTION OF GLOBAL RESTAURANT RATINGS WITH MACHINE LEARNING](https://github.com/Jaywestty/Restuarant-rating-Capstone-Project.git)
+During my internship, I worked with a dataset comprising 21 features and 9551 observations in this project, The objective was to explore, preprocess, and model the data to uncover insights and build predictive regression models.
+
+#### Key Contributions:
 - Cleaned real-world restaurant data, including handling missing values and reasoning through zero ratings.
 - Visualised key insights using Matplotlib, Seaborn, and geospatial mapping with Plotly.
 - Applied log transformation to address skewness and encoded categorical variables.
