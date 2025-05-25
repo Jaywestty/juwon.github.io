@@ -28,7 +28,7 @@ Cognifyz Technologies | November 2024 - December 2024
 **Impacts**: Delivered a predictive analytics model for restaurant ratings, showcasing skills in real-world data wrangling, EDA, and supervised learning.
 
 ## Featured Projects
-
+### [STUDENT PERFORMANCE PREDICTION WITH MACHINE LEARNING](https://github.com/Jaywestty/Student-Performance.git)
 
 <p align="center">
   <img src="images/stperfom.png" width="600"/>
