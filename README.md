@@ -1,8 +1,8 @@
 # DATA SCIENTIST
 - Phone: 09019297936
-- Email: juwonfadairo10@gmailcom
+- Email: juwonfadairo13@gmail.com
 
-I'm a Data Scientist and Machine Learning Engineer passionate about solving real-world problems using data.
+Entry-level Data Scientist with hands-on experience in building and deploying machine learning solutions using Python, Scikit-learn, and Streamlit. Skilled in EDA, model development, and production-ready deployment. Proven ability to turn data into actionable insights through end-to-end projects in health and education domains.
 
 ## Skills
 - Programming: SQL, Python (Pandas, NumPy, Scikit-Learn)
@@ -37,6 +37,7 @@ During my internship, I worked with a dataset comprising 21 features and 9551 ob
 <p align="center">
   <img src="images/stperfom.png" width="600"/>
 </p>
+
  The Student Performance App is a multi-class classification project that predicts a student's performance based on their habits and background details. The possible output categories are Good, Fair, or Excellent.
  
 #### Key Contributions:
@@ -62,14 +63,18 @@ During my internship, I worked with a dataset comprising 21 features and 9551 ob
 This is a user-friendly web application built with Streamlit that predicts whether a patient is likely to have diabetes based on their medical information. Users can input basic health metrics, and the app provides a real-time prediction using a trained machine learning model.
 
 #### Key Contributions:
-- **Data Cleaning & Preprocessing**: Cleaned and handled missing values using pandas to ensure high-quality data inputs for modelling.
-- **Exploratory Data Analysis (EDA**): Employed matplotlib, seaborn, and plotly to visualise distributions, correlations, and trends within the dataset, enabling data-driven insights.
-- **Feature Engineering**: Engineered and transformed relevant features to improve model accuracy and interpretability.
-- **Model Development**: Developed and assessed classification models, including:
-      - Logistic Regression
-      - Random Forest Classifier
-- **Model Evaluation & Selection**: Compared models using performance metrics such as accuracy, precision, recall, and F1-score to determine the best-performing algorithm.
-- **Model Deployment Preparation**: Saved the optimal model for deployment using pickle and deployed the model through an interactive Streamlit interface, enabling real-time predictions directly in the browser.
+- Cleaned and processed the data by replacing zero-values in medical features with statistically imputed values (mean/median) based on distribution analysis.
+- Conducted exploratory data analysis (EDA) to uncover patterns and support feature selection for optimal model performance.
+- Engineered and transformed relevant features to improve model accuracy and interpretability.
+- Trained and evaluated Logistic Regression and a Random Forest Classifier (tuned via GridSearchCV).
+- Achieved:
+      - Random Forest: 80% test accuracy (best performing)
+      - Logistic Regression: 71% test accuracy
+- Visualized model performance with heatmaps and classification metrics to guide selection of the most accurate and generalizable model.
+- Serialized the best model using Pickle and deployed it on Streamlit, enabling interactive predictions from users through a web interface.
+
+#### Impacts:
+- Delivered a real-world healthcare diagnostic tool while demonstrating expertise in data cleaning, model selection, hyperparameter tuning, and ML deployment.
 
 and [Others](https://github.com/Jaywestty)
 
@@ -79,5 +84,5 @@ Ladoke Akintola University of Technology (LAUTECH) | B.Tech in Science Laborator
 
 ## 📫 Connect with me
 - [LinkedIn](www.linkedin.com/in/oluwajuwon-f-27b132248)
-- [Email](juwonfadairo10@gmail.com)
+- [Email](juwonfadairo13@gmail.com)
 - [Medium](https://medium.com/@juwonfadairo13)
