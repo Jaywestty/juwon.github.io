@@ -18,7 +18,7 @@ I'm a Data Scientist and Machine Learning Engineer passionate about solving real
 Data Science Intern
 
 Cognifyz Technologies | November 2024 - December 2024
-### [PREDICTION OF GLOBAL RESTAURANT RATINGS WITH MACHINE LEARNING](https://github.com/Jaywestty/Restuarant-rating-Capstone-Project.git)
+#### [PREDICTION OF GLOBAL RESTAURANT RATINGS WITH MACHINE LEARNING](https://github.com/Jaywestty/Restuarant-rating-Capstone-Project.git)
 During my internship, I worked with a dataset comprising 21 features and 9551 observations in this project, The objective was to explore, preprocess, and model the data to uncover insights and build predictive regression models.
 
 #### Key Contributions:
