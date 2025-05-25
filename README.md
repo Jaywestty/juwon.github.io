@@ -32,6 +32,7 @@ During my internship, I worked with a dataset comprising 21 features and 9551 ob
 
 ## Featured Projects
 ### [STUDENT PERFORMANCE PREDICTION APP WITH MACHINE LEARNING](https://github.com/Jaywestty/Student-Performance.git)
+[Student Performance App with Streamlit](https://student-performannce.streamlit.app/)
 
 <p align="center">
   <img src="images/stperfom.png" width="600"/>
