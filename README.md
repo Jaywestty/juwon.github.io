@@ -50,7 +50,8 @@ During my internship, I worked with a dataset comprising 21 features and 9551 ob
       - Random Forest Classifier: 91% test accuracy
   - Visualized model performance with heatmaps and classification metrics to guide selection of the most accurate and generalizable model.
   - Saved the optimal model for deployment using pickle and deployed the model through an interactive Streamlit interface, enabling real-time predictions directly in the browser.
-#### Impact:
+
+**Impacts**:
   - Delivered a robust educational performance analysis pipeline, demonstrating expertise in data cleaning, model benchmarking, and multi-class classification techniques.
   
 ### [DIABETES PREDICTION APP WITH MACHINE LEARNING](https://github.com/Jaywestty/DIABETES-MACHINE-LEARNING-PREDICTION-APP.git)
@@ -73,7 +74,7 @@ This is a user-friendly web application built with Streamlit that predicts wheth
 - Visualized model performance with heatmaps and classification metrics to guide selection of the most accurate and generalizable model.
 - Serialized the best model using Pickle and deployed it on Streamlit, enabling interactive predictions from users through a web interface.
 
-#### Impacts:
+**Impacts**:
 - Delivered a real-world healthcare diagnostic tool while demonstrating expertise in data cleaning, model selection, hyperparameter tuning, and ML deployment.
 
 and [Others](https://github.com/Jaywestty)
