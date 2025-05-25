@@ -55,7 +55,7 @@ During my internship, I worked with a dataset comprising 21 features and 9551 ob
   
 ### [DIABETES PREDICTION APP WITH MACHINE LEARNING](https://github.com/Jaywestty/DIABETES-MACHINE-LEARNING-PREDICTION-APP.git)
 
-[ML API with Streamlit](https://jaywestty-diabetes-machine-learning-prediction-app-app-pnu8yg.streamlit.app/)
+[DIabetes Prediction App Streamlit](https://jaywestty-diabetes-machine-learning-prediction-app-app-pnu8yg.streamlit.app/)
 <p align="center">
   <img src="images/Dbimage.png" width="600"/>
 </p>
@@ -67,7 +67,7 @@ This is a user-friendly web application built with Streamlit that predicts wheth
 - Conducted exploratory data analysis (EDA) to uncover patterns and support feature selection for optimal model performance.
 - Engineered and transformed relevant features to improve model accuracy and interpretability.
 - Trained and evaluated Logistic Regression and a Random Forest Classifier (tuned via GridSearchCV).
-- Evaluated models and achieved:
+- Evaluated models scores achieved:
      - Random Forest Classifier: 80% test accuracy
      - Logistic Regression Classifier: 71% test accuracy
 - Visualized model performance with heatmaps and classification metrics to guide selection of the most accurate and generalizable model.
